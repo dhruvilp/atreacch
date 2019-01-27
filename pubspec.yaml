@@ -1,0 +1,47 @@
+name: atreacch
+description: A new Flutter application.
+version: 1.0.0+1
+author: Dhruvil, Paul, Json, Bekhzod
+homepage: https://github.com/dhruvilp/atreacch
+
+
+environment:
+  sdk: ">=2.0.0-dev.68.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # The following adds the Cupertino Icons font to your application.
+  # Use with the CupertinoIcons class for iOS style icons.
+  cupertino_icons: ^0.1.2
+  font_awesome_flutter: ^8.2.0
+  flutter_calendar_carousel: ^1.3.10
+  date_utils: ^0.1.0
+  flare_flutter: ^1.2.0
+  flutter_dialogflow: ^0.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+# For information on the generic Dart part of this file, see the
+# following page: https://www.dartlang.org/tools/pub/pubspec
+
+# The following section is specific to Flutter.
+flutter:
+
+  uses-material-design: true
+
+  assets:
+  - assets/images/app_icon.png
+  - assets/images/woman.png
+  - assets/images/splash_screen.png
+
+  fonts:
+  - family: Fontello
+    fonts:
+    - asset: assets/fonts/fontello.ttf
+
+
