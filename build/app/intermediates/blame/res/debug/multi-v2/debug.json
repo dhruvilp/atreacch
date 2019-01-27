@@ -1,6 +1,30 @@
 {
     "logs": [
         {
+            "outputFile": "/Users/dhruvilpatel/Downloads/atreacch-master/build/app/intermediates/res/merged/debug/values-v21_values-v21.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/dhruvilpatel/Downloads/atreacch-master/android/app/src/main/res/values-v21/styles.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "56",
+                        "endLines": "10",
+                        "endColumns": "12",
+                        "endOffsets": "498"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "497"
+                    }
+                }
+            ]
+        },
+        {
             "outputFile": "/Users/dhruvilpatel/Downloads/atreacch-master/build/app/intermediates/res/merged/debug/values_values.arsc.flat",
             "map": [
                 {
@@ -8,10 +32,18 @@
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
-                        "startOffsets": "55",
-                        "endLines": "6",
+                        "startOffsets": "102",
+                        "endLines": "8",
                         "endColumns": "12",
-                        "endOffsets": "347"
+                        "endOffsets": "420"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "373"
                     }
                 }
             ]
