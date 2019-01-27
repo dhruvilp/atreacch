@@ -1,4 +1,5 @@
 import 'dart:async';
+import 'package:atreacch/login.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/services.dart';
@@ -19,7 +20,7 @@ void main() => runApp(new MaterialApp(
   debugShowCheckedModeBanner: false,
   theme: new ThemeData(
     scaffoldBackgroundColor: aBgWhite,
-    primaryColor: aBgWhite,
+    primaryColor: aPurple,
     backgroundColor: aBgWhite,
   ),
   routes: <String, WidgetBuilder>{
@@ -104,6 +105,7 @@ class TabsState extends State<Tabs> {
 
 //    App Bar
       appBar: new AppBar(
+        backgroundColor: aBgWhite,
         actions: <Widget>[
 //          new Image.asset('assets/images/app_icon.png', width: 70.0, height: 60.0),
           PopupMenuButton<Choice>(
@@ -169,25 +171,25 @@ class TabsState extends State<Tabs> {
           child: new ListView(
             children: <Widget>[
               new Container(
-                height: 150.0,
+                height: 160.0,
                 color: aGreyLight,
                 child: new UserAccountsDrawerHeader(
                       accountName: Text('User Name'),
                       accountEmail: Text('user.name@email.com'),
                     currentAccountPicture: CircleAvatar(
-                      child: FlutterLogo(size: 42.0),
+                      child: FlutterLogo(size: 40.0),
                       backgroundColor: aBgWhite,
                     ),
-                    otherAccountsPictures: <Widget>[
-                      CircleAvatar(
-                        child: Text('A'),
-                        backgroundColor: aBlueLight,
-                      ),
-                      CircleAvatar(
-                        child: Text('B'),
-                        backgroundColor: aGreen,
-                      ),
-                    ],
+//                    otherAccountsPictures: <Widget>[
+//                      CircleAvatar(
+//                        child: Text('A'),
+//                        backgroundColor: aBlueLight,
+//                      ),
+//                      CircleAvatar(
+//                        child: Text('B'),
+//                        backgroundColor: aGreen,
+//                      ),
+//                    ],
                 ),
               ),
               new ListTile(
@@ -211,7 +213,9 @@ class TabsState extends State<Tabs> {
                   leading: new Icon(Icons.exit_to_app),
                   title: new Text('Sign Out'),
                   onTap: () {
-                    Navigator.pop(context);
+                    Navigator.push(context,
+                      MaterialPageRoute(builder: (context) => Login()),
+                    );
                   }
               ),
             ],

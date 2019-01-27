@@ -1,4 +1,5 @@
 import 'dart:async';
+import 'package:atreacch/login.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/cupertino.dart';
 import 'colors.dart';
@@ -16,7 +17,10 @@ class _SplashScreenState extends State<SplashScreen> {
   }
 
   void navigationPage() {
-    Navigator.of(context).pushReplacementNamed('/Tabs');
+//    Navigator.of(context).pushReplacementNamed('/Tabs');
+  Navigator.push(context,
+    MaterialPageRoute(builder: (context) => Login()),
+  );
   }
 
   @override
