@@ -4,6 +4,18 @@ ADDED from /Users/dhruvilpatel/Downloads/atreacch-master/android/app/src/main/An
 INJECTED from /Users/dhruvilpatel/Downloads/atreacch-master/android/app/src/main/AndroidManifest.xml:1:1-39:12
 INJECTED from /Users/dhruvilpatel/Downloads/atreacch-master/android/app/src/main/AndroidManifest.xml:1:1-39:12
 INJECTED from /Users/dhruvilpatel/Downloads/atreacch-master/android/app/src/main/AndroidManifest.xml:1:1-39:12
+MERGED from [:google_maps_flutter] /Users/dhruvilpatel/Downloads/atreacch-master/build/google_maps_flutter/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] /Users/dhruvilpatel/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/2093544f21461f285a878a171cd581bf/AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/dhruvilpatel/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/cb6d41f2a1e628ebaa6887701206dc21/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/dhruvilpatel/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/93c7c43a3d77d3d5528514df3a6bc507/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/dhruvilpatel/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/45efba2a1c226e7c9b176426c2f4c793/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /Users/dhruvilpatel/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/1abcbc936ac0a8540ad91e9d37ab83ad/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/dhruvilpatel/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/0290b814b5fca4c6cac40945215ea61b/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/dhruvilpatel/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/c330e5c3c6da2d6f535a2374352e7b0b/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/dhruvilpatel/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/137353befe8ada00387d79c5786d4b49/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/dhruvilpatel/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/51c3d7e858ed4afb4dabe8f1aebd7bc8/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /Users/dhruvilpatel/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/7430824b3ffd7c999ba785f9a20bd530/AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/dhruvilpatel/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/35c7a06fdc29a75e58ce662c535724b6/AndroidManifest.xml:17:1-30:12
 INJECTED from /Users/dhruvilpatel/Downloads/atreacch-master/android/app/src/main/AndroidManifest.xml:1:1-39:12
 INJECTED from /Users/dhruvilpatel/Downloads/atreacch-master/android/app/src/main/AndroidManifest.xml:1:1-39:12
 INJECTED from /Users/dhruvilpatel/Downloads/atreacch-master/android/app/src/main/AndroidManifest.xml:1:1-39:12
@@ -23,10 +35,34 @@ INJECTED from /Users/dhruvilpatel/Downloads/atreacch-master/android/app/src/main
 		ADDED from /Users/dhruvilpatel/Downloads/atreacch-master/android/app/src/main/AndroidManifest.xml:1:11-69
 uses-permission#android.permission.INTERNET
 ADDED from /Users/dhruvilpatel/Downloads/atreacch-master/android/app/src/main/AndroidManifest.xml:8:5-66
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] /Users/dhruvilpatel/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/2093544f21461f285a878a171cd581bf/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] /Users/dhruvilpatel/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/2093544f21461f285a878a171cd581bf/AndroidManifest.xml:24:5-67
 	android:name
 		ADDED from /Users/dhruvilpatel/Downloads/atreacch-master/android/app/src/main/AndroidManifest.xml:8:22-64
 application
 ADDED from /Users/dhruvilpatel/Downloads/atreacch-master/android/app/src/main/AndroidManifest.xml:15:5-38:19
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] /Users/dhruvilpatel/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/2093544f21461f285a878a171cd581bf/AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] /Users/dhruvilpatel/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/2093544f21461f285a878a171cd581bf/AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/dhruvilpatel/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/cb6d41f2a1e628ebaa6887701206dc21/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/dhruvilpatel/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/cb6d41f2a1e628ebaa6887701206dc21/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/dhruvilpatel/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/93c7c43a3d77d3d5528514df3a6bc507/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/dhruvilpatel/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/93c7c43a3d77d3d5528514df3a6bc507/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/dhruvilpatel/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/45efba2a1c226e7c9b176426c2f4c793/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/dhruvilpatel/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/45efba2a1c226e7c9b176426c2f4c793/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/dhruvilpatel/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/1abcbc936ac0a8540ad91e9d37ab83ad/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/dhruvilpatel/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/1abcbc936ac0a8540ad91e9d37ab83ad/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/dhruvilpatel/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/0290b814b5fca4c6cac40945215ea61b/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/dhruvilpatel/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/0290b814b5fca4c6cac40945215ea61b/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/dhruvilpatel/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/c330e5c3c6da2d6f535a2374352e7b0b/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/dhruvilpatel/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/c330e5c3c6da2d6f535a2374352e7b0b/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/dhruvilpatel/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/137353befe8ada00387d79c5786d4b49/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/dhruvilpatel/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/137353befe8ada00387d79c5786d4b49/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/dhruvilpatel/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/51c3d7e858ed4afb4dabe8f1aebd7bc8/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/dhruvilpatel/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/51c3d7e858ed4afb4dabe8f1aebd7bc8/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/dhruvilpatel/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/7430824b3ffd7c999ba785f9a20bd530/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/dhruvilpatel/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/7430824b3ffd7c999ba785f9a20bd530/AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/dhruvilpatel/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/35c7a06fdc29a75e58ce662c535724b6/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/dhruvilpatel/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/35c7a06fdc29a75e58ce662c535724b6/AndroidManifest.xml:24:5-28:19
 	android:label
 		ADDED from /Users/dhruvilpatel/Downloads/atreacch-master/android/app/src/main/AndroidManifest.xml:17:9-33
 	android:icon
@@ -67,8 +103,34 @@ uses-sdk
 INJECTED from /Users/dhruvilpatel/Downloads/atreacch-master/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/dhruvilpatel/Downloads/atreacch-master/android/app/src/main/AndroidManifest.xml
 INJECTED from /Users/dhruvilpatel/Downloads/atreacch-master/android/app/src/main/AndroidManifest.xml
+MERGED from [:google_maps_flutter] /Users/dhruvilpatel/Downloads/atreacch-master/build/google_maps_flutter/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:google_maps_flutter] /Users/dhruvilpatel/Downloads/atreacch-master/build/google_maps_flutter/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] /Users/dhruvilpatel/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/2093544f21461f285a878a171cd581bf/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] /Users/dhruvilpatel/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/2093544f21461f285a878a171cd581bf/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/dhruvilpatel/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/cb6d41f2a1e628ebaa6887701206dc21/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/dhruvilpatel/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/cb6d41f2a1e628ebaa6887701206dc21/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/dhruvilpatel/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/93c7c43a3d77d3d5528514df3a6bc507/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/dhruvilpatel/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/93c7c43a3d77d3d5528514df3a6bc507/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/dhruvilpatel/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/45efba2a1c226e7c9b176426c2f4c793/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/dhruvilpatel/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/45efba2a1c226e7c9b176426c2f4c793/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /Users/dhruvilpatel/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/1abcbc936ac0a8540ad91e9d37ab83ad/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /Users/dhruvilpatel/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/1abcbc936ac0a8540ad91e9d37ab83ad/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/dhruvilpatel/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/0290b814b5fca4c6cac40945215ea61b/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/dhruvilpatel/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/0290b814b5fca4c6cac40945215ea61b/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/dhruvilpatel/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/c330e5c3c6da2d6f535a2374352e7b0b/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/dhruvilpatel/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/c330e5c3c6da2d6f535a2374352e7b0b/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/dhruvilpatel/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/137353befe8ada00387d79c5786d4b49/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/dhruvilpatel/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/137353befe8ada00387d79c5786d4b49/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/dhruvilpatel/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/51c3d7e858ed4afb4dabe8f1aebd7bc8/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/dhruvilpatel/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/51c3d7e858ed4afb4dabe8f1aebd7bc8/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/dhruvilpatel/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/7430824b3ffd7c999ba785f9a20bd530/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/dhruvilpatel/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/7430824b3ffd7c999ba785f9a20bd530/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/dhruvilpatel/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/35c7a06fdc29a75e58ce662c535724b6/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/dhruvilpatel/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/35c7a06fdc29a75e58ce662c535724b6/AndroidManifest.xml:20:5-22:41
 INJECTED from /Users/dhruvilpatel/Downloads/atreacch-master/android/app/src/main/AndroidManifest.xml
 INJECTED from /Users/dhruvilpatel/Downloads/atreacch-master/android/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:26.1.0] /Users/dhruvilpatel/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/1abcbc936ac0a8540ad91e9d37ab83ad/AndroidManifest.xml:23:9-51
 	android:targetSdkVersion
 		INJECTED from /Users/dhruvilpatel/Downloads/atreacch-master/android/app/src/main/AndroidManifest.xml
 		ADDED from /Users/dhruvilpatel/Downloads/atreacch-master/android/app/src/main/AndroidManifest.xml
@@ -77,3 +139,49 @@ INJECTED from /Users/dhruvilpatel/Downloads/atreacch-master/android/app/src/main
 		INJECTED from /Users/dhruvilpatel/Downloads/atreacch-master/android/app/src/main/AndroidManifest.xml
 		ADDED from /Users/dhruvilpatel/Downloads/atreacch-master/android/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/dhruvilpatel/Downloads/atreacch-master/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:15.0.1] /Users/dhruvilpatel/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/2093544f21461f285a878a171cd581bf/AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:15.0.1] /Users/dhruvilpatel/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/2093544f21461f285a878a171cd581bf/AndroidManifest.xml:23:22-76
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:15.0.1] /Users/dhruvilpatel/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/2093544f21461f285a878a171cd581bf/AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:15.0.1] /Users/dhruvilpatel/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/2093544f21461f285a878a171cd581bf/AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:15.0.1] /Users/dhruvilpatel/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/2093544f21461f285a878a171cd581bf/AndroidManifest.xml:28:9-32
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/dhruvilpatel/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/cb6d41f2a1e628ebaa6887701206dc21/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/dhruvilpatel/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/cb6d41f2a1e628ebaa6887701206dc21/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/dhruvilpatel/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/cb6d41f2a1e628ebaa6887701206dc21/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/dhruvilpatel/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/cb6d41f2a1e628ebaa6887701206dc21/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:15.0.1] /Users/dhruvilpatel/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/45efba2a1c226e7c9b176426c2f4c793/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] /Users/dhruvilpatel/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/45efba2a1c226e7c9b176426c2f4c793/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] /Users/dhruvilpatel/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/45efba2a1c226e7c9b176426c2f4c793/AndroidManifest.xml:24:13-58
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:26.1.0] /Users/dhruvilpatel/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/1abcbc936ac0a8540ad91e9d37ab83ad/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/dhruvilpatel/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/0290b814b5fca4c6cac40945215ea61b/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/dhruvilpatel/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/0290b814b5fca4c6cac40945215ea61b/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/dhruvilpatel/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/c330e5c3c6da2d6f535a2374352e7b0b/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/dhruvilpatel/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/c330e5c3c6da2d6f535a2374352e7b0b/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/dhruvilpatel/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/137353befe8ada00387d79c5786d4b49/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/dhruvilpatel/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/137353befe8ada00387d79c5786d4b49/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/dhruvilpatel/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/51c3d7e858ed4afb4dabe8f1aebd7bc8/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/dhruvilpatel/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/51c3d7e858ed4afb4dabe8f1aebd7bc8/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/dhruvilpatel/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/7430824b3ffd7c999ba785f9a20bd530/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/dhruvilpatel/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/7430824b3ffd7c999ba785f9a20bd530/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:support-v4:26.1.0] /Users/dhruvilpatel/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/1abcbc936ac0a8540ad91e9d37ab83ad/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:support-v4:26.1.0] /Users/dhruvilpatel/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/1abcbc936ac0a8540ad91e9d37ab83ad/AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/dhruvilpatel/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/35c7a06fdc29a75e58ce662c535724b6/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/dhruvilpatel/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/35c7a06fdc29a75e58ce662c535724b6/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/dhruvilpatel/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/35c7a06fdc29a75e58ce662c535724b6/AndroidManifest.xml:26:13-58
