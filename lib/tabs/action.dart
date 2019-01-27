@@ -13,10 +13,6 @@ class Action extends StatefulWidget{
 class ActionState extends State<Action>
     with SingleTickerProviderStateMixin{
 
-//  final places = new GoogleMapsPlaces(apiKey: "AIzaSyBaymozjgWIR2BX6Nx22eApn34zJr2qlFM");
-//  PlacesSearchResponse response = await places.searchByText("google HQ") as PlacesSearchResponse;
-//  print(response.results)
-
   @override
   Widget build(BuildContext context) {
     return ListView(
